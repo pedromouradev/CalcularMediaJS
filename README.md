@@ -1,2 +1,2 @@
 # CalcularMediaJS
-calcula media de 4 notas 
+Calcula Média de 4 notas 
